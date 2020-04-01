@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1527637285 source:c:\users\menil\year 2\data structure alg\assignment 2 sub\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+	<cstring>
+	<cstdlib>
+	<stdlib.h>
+	"Catalogue.h"
+	"binaryTree.h"
+	"Item.h"
+	"Catagory.h"
+	"Driving.h"
+
+1527809740 c:\users\menil\year 2\data structure alg\assignment 2 sub\include\catalogue.h
+
+1527809939 c:\users\menil\year 2\data structure alg\assignment 2 sub\include\binarytree.h
+	<cassert>
+	<iostream>
+
+1527810685 c:\users\menil\year 2\data structure alg\assignment 2 sub\include\item.h
+
+1527637285 c:\users\menil\year 2\data structure alg\assignment 2 sub\include\catagory.h
+
+1527637338 c:\users\menil\year 2\data structure alg\assignment 2 sub\include\driving.h
+
+1527640885 source:c:\users\menelik\documents\year 2\data structure alg\assignment 2 sub\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+	<cstring>
+	<cstdlib>
+	<stdlib.h>
+	"Catalogue.h"
+	"binaryTree.h"
+	"Item.h"
+	"Catagory.h"
+	"Driving.h"
+
+1527813340 c:\users\menelik\documents\year 2\data structure alg\assignment 2 sub\include\catalogue.h
+
+1527813539 c:\users\menelik\documents\year 2\data structure alg\assignment 2 sub\include\binarytree.h
+	<cassert>
+	<iostream>
+
+1527814285 c:\users\menelik\documents\year 2\data structure alg\assignment 2 sub\include\item.h
+
+1527640885 c:\users\menelik\documents\year 2\data structure alg\assignment 2 sub\include\catagory.h
+
+1527640938 c:\users\menelik\documents\year 2\data structure alg\assignment 2 sub\include\driving.h
+
+1527640886 source:d:\mini backup\year 2\data structure alg\assignment 2 sub\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+	<cstring>
+	<cstdlib>
+	<stdlib.h>
+	"Catalogue.h"
+	"binaryTree.h"
+	"Item.h"
+	"Catagory.h"
+	"Driving.h"
+
+1527813342 d:\mini backup\year 2\data structure alg\assignment 2 sub\include\catalogue.h
+
+1527813540 d:\mini backup\year 2\data structure alg\assignment 2 sub\include\binarytree.h
+	<cassert>
+	<iostream>
+
+1527814286 d:\mini backup\year 2\data structure alg\assignment 2 sub\include\item.h
+
+1527640886 d:\mini backup\year 2\data structure alg\assignment 2 sub\include\catagory.h
+
+1527640940 d:\mini backup\year 2\data structure alg\assignment 2 sub\include\driving.h
+
